@@ -12,3 +12,4 @@ File 10_no_more_js creates a script that deletes all the regular files (not the 
 File 11-directories creates a script that counts the number of directories and sub-directories in the current directory.
 File 12-newest_files creates a script that displays the 10 newest files in the current directory.
 File 13-unique creates a script that takes a list of words as input and prints only words that appear exactly once.
+Fie 14-findthatword creates a script that display lines containing the pattern “root” from the file /etc/passwd.
