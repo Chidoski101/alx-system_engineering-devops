@@ -2,3 +2,4 @@ File 0-hello_world creates a script that prints “Hello, World”, followed by 
 File 1-confused smiley creates a script that displays a confused smiley.
 File 2-hellofile creates a script that display the content of the /etc/passwd file.
 File 3-twofiles creates a script that display the content of /etc/passwd and /etc/hosts.
+File 4-lastlines creates a script that display the last 10 lines of /etc/passwd.
