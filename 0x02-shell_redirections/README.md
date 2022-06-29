@@ -16,3 +16,4 @@ Fie 14-findthatword creates a script that display lines containing the pattern �
 File 15-countthatword creates a script that display the number of lines that contain the pattern “bin” in the file /etc/passwd.
 File 16-whatsnext creates a script that display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 File 17-hidethisword craetes a script that display all the lines in the file /etc/passwd that do not contain the pattern bin.
+File 18-letteronly creates a script that display all lines of the file /etc/ssh/sshd_config starting with a letter.
