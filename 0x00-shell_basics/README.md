@@ -10,3 +10,6 @@ file 7-movethatfile creates a script that Move the file betty from /tmp/ to /tmp
  file 9-firstdirdeletion  creates a script that Delete the directory my_first_directory that is in the /tmp directory.
 file 10-back creates a script thatWrite a script that changes the working directory t10-back  creates a script that Write a script that changes the working directory to the previous one.
 file 11-lists creates a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+file 12-file_type creates a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
+ file 13-symbolic_link creates a script that Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
+file 14-copy_html creates a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
