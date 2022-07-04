@@ -16,3 +16,4 @@ file 13-change_group creates a script that changes the group owner to school for
 file 101-symbolic_link_permissions creates a script that changes the owner and the group owner of _hello to vincent and staff respectively.
 file 102-if_only creates a script that changes the owner of the file hello to betty only if it is owned by the user guillaume.
 file 103-Star_Wars creates a script that will play the StarWars IV episode in the terminal.
+file 11-directories_permissions creates a script that dds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
