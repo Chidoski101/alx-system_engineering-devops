@@ -7,3 +7,6 @@ file 5-execute creates a script that add execute permission to the owner of the 
 file 6-multiple_permissions creates a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 file 7-everybody creates a script that adds execution permission to the owner, the group owner and the other users, to the file hello
 file 8-James_Bond creates a script that sets the permission to the file hello.
+file 9-John_Doe creates a script that sets the mode of the file hello to this: -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
+file 10-mirrior_permissions creates a script that sets the mode of the file hello the same as olleh’s mode.
+file 100-change_owner_and_group creates a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
